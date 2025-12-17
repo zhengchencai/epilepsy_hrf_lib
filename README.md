@@ -41,9 +41,9 @@ This repository contains the analysis code for the manuscript.
 ├── HRF_lib/
 │   ├── HRF_PCA.m                 # perform PCA on extracted HRFs
 │   ├── HRF_PCA_plot.m            # visualization of PCA variance across parameters
-│   ├── convert2hrflib.m          # build HRF library and extract features
-│   ├── manifold.m                # manifold learning and density estimation
-│   └── plot_manifold.R           # visualization of HRF manifold
+│   ├── manifold.m                # build HRF library based on HRF shape distribution
+│   ├── plot_manifold.R           # visualization of HRF shape distribution
+│   └── convert2hrflib.m          # extract HRF features (e.g., time to peak, HRF shape)
 │
 ├── Bayesian_model/
 │   └── EpilepsyHRF_Cai_Supplementary_Code.html  # Quarto-rendered HTML report with code
