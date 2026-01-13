@@ -1,4 +1,4 @@
-# The Hemodynamic Response Function Varies Across Anatomical Location and Pathology in the Epileptic Brain (Code)
+# The Anatomical and Pathological Determinants of Hemodynamic Response Modeling in the Epileptic Brain (Code)
 
 Zhengchen Cai¹, Nicolás von Ellenrieder¹, Thaera Arafat¹, Hui Ming Kho², Gang Chen³, Andreas Koupparis⁴, Chifaou Abdallah¹, Roy Dudley⁵, Dang Khoa Nguyen⁶, Jeffery Hall¹, Francois Dubeau¹, Jean Gotman¹*, Boris Bernhardt¹*
 
